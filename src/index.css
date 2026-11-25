@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@keyframes flowDash {
+  to {
+    stroke-dashoffset: -24;
+  }
+}
+
+.animate-water-flow {
+  stroke-dasharray: 6 6;
+  animation: flowDash 0.6s linear infinite;
+}

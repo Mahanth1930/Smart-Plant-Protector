@@ -1,0 +1,5 @@
+{
+  "name": "Smart Plant Protector",
+  "description": "Interactive Arduino-based automatic plant watering system simulator with soil moisture sensing, relay control, water pump actuation, and serial monitor telemetry.",
+  "requestFramePermissions": []
+}
